@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oxanium', cursive;
+}
+
+body {
+  text-align: center;
+  background: rgb(80, 28, 128);
+  min-height: 100vh;
+}
+
+main {
+  display: inline-block;
+  margin-top: 2%;
+  padding: 15px;
+  position: relative;
+}
+
+.container{
+  border-radius: 30px;
+  border: 2px ;
+  box-shadow: 3px 10px 30px #342a3e;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 500px;
+  text-align: center;
+  background-color: #6a37a0;
+}
+
+.batalha-titulo{
+  margin-top: 20px;
+  color: #ffffff;
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  gap: 10px;
+  padding: 20px;
+}
+
+.text-batalha{
+  margin-top: 25px;
+  color: #ffffff;
+}
+
+.card-pokemon{
+  color: #ffffff;
+  background-color: #4c3562;
+  border-radius: 30px;
+  border: 2px ;
+  box-shadow: 3px 0px 20px #342a3e;
+  width: 150px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  gap: 10px;
+}
+
+.vs-card{
+  color: #ff0000;
+  font-size: 30px;
+  margin-top: 110px;
+}
+
+.container button{
+  width: 150px;
+  height: 50px;
+  margin-top: 25px;
+  border-radius: 10px;
+  border: 0;
+  background-color: #ea9595;
+  color: #ffffff;
+  margin: 0 auto;
+  margin-top: 20px;
+  cursor: pointer;
+  font-size: 20px;
+  font-style: bold;
+}
+
+.vencedor{
+  margin-top: 20px;
+  font-size: 20px;
+  justify-content: center;
+  color: #7fffd4;
+}
+
+#pokemonimg{
+  width: 80px;
+  height: 80px;
+}
+
+#pokemonimage{
+  width: 80px;
+  height: 80px;
+}
