@@ -31,11 +31,8 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-consulta-cep é um projeto com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
+batalhapokemon é um projeto com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
 
-<!-- EXEMPLO DE LAYOUT: -->
-## 🎨 Layout
-![image](https://github.com/user-attachments/assets/6f01bed2-2e5d-474a-bc57-046a5cac683c)
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como executar o projeto
@@ -43,7 +40,7 @@ consulta-cep é um projeto com o objetivo de aplicar e consolidar os conheciment
 `git clone https://github.com/anapicoli/api_batalhapokemon`
 
 2 - Abrir a pasta em um editor de código <br>
-`cd consultacep`
+`cd batalhapokemon`
 
 3- Acessar o index.html para visualizar o contéudo
 
